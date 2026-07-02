@@ -22,3 +22,14 @@ Guardian Shield runs silently in the background. Once the security parameters ar
 
 ---
 *Built with passion and advanced AI workflows by Aakash Ali.*
+
+## 📸 Application Screenshots
+
+Here is a visual overview of Guardian Shield's premium dark-themed UI and core functionalities:
+
+<p align="center">
+  <img src="repo1.png" width="220" alt="Dashboard">
+  <img src="repo2.png" width="220" alt="Security Features">
+  <img src="repo3.png" width="220" alt="App Permissions">
+  <img src="repo4.png" width="220" alt="Game Firewall">
+</p>
